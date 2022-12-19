@@ -18,5 +18,5 @@ syn = "1.0.99"
 quote = "1.0.21"
 
 [dev-dependencies]
-error-stack = "0.1.1"
+error-stack = "0.2.4"
 serde_json = "1.0.85"
